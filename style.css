@@ -46,3 +46,7 @@ footer{
 footer img{
   vertical-align: middle;
 }
+
+h1, h2, h3 {
+  font-size: 24px;
+}
